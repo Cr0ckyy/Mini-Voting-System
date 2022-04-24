@@ -1,0 +1,3 @@
+C:/Users/LI SHUFANG/CLionProjects/Mini-Voting-System/cmake-build-debug/CMakeFiles/Mini_Voting_System.dir
+C:/Users/LI SHUFANG/CLionProjects/Mini-Voting-System/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LI SHUFANG/CLionProjects/Mini-Voting-System/cmake-build-debug/CMakeFiles/rebuild_cache.dir

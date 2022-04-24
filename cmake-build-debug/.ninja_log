@@ -1,0 +1,16 @@
+# ninja log v5
+1	10	0	clean	2aef2209a9599d6
+0	182	6724916091062999	CMakeFiles/Mini_Voting_System.dir/MAIN.C.obj	de40f888dab3b1bd
+183	366	6724916092713363	Mini_Voting_System.exe	fc843e729f890227
+2	117	6724918075643882	CMakeFiles/Mini_Voting_System.dir/MAIN.C.obj	de40f888dab3b1bd
+118	228	6724918076724126	Mini_Voting_System.exe	fc843e729f890227
+3	107	6724919615569161	CMakeFiles/Mini_Voting_System.dir/MAIN.C.obj	de40f888dab3b1bd
+108	207	6724919616529374	Mini_Voting_System.exe	fc843e729f890227
+3	114	6724929344916422	CMakeFiles/Mini_Voting_System.dir/MAIN.C.obj	de40f888dab3b1bd
+115	220	6724929345946654	Mini_Voting_System.exe	fc843e729f890227
+2	113	6724929489875675	CMakeFiles/Mini_Voting_System.dir/MAIN.C.obj	de40f888dab3b1bd
+113	221	6724929490925912	Mini_Voting_System.exe	fc843e729f890227
+3	115	6724929598627311	CMakeFiles/Mini_Voting_System.dir/MAIN.C.obj	de40f888dab3b1bd
+116	214	6724929599587517	Mini_Voting_System.exe	fc843e729f890227
+2	181	6724935527401379	CMakeFiles/Mini_Voting_System.dir/MAIN.C.obj	de40f888dab3b1bd
+182	355	6724935529101759	Mini_Voting_System.exe	fc843e729f890227
